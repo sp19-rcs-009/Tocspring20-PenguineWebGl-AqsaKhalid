@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Penguin Assignment",
+"productVersion": "0.1",
+"dataUrl": "webgl_penguine.data.unityweb",
+"wasmCodeUrl": "webgl_penguine.wasm.code.unityweb",
+"wasmFrameworkUrl": "webgl_penguine.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.3f1"
+}
